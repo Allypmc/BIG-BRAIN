@@ -1,0 +1,4 @@
+function Setup(){
+  let name = prompt("Enter name: ");
+  console.log("Welcome to the project, ", name, "!");
+}
